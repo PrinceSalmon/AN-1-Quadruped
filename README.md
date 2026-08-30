@@ -24,6 +24,17 @@ https://github.com/user-attachments/assets/92d0cb23-9992-41e9-826b-c3d4a40cceba
 # Leg Design
 
 # Leg Test
+Using inferior generation 2 motors, still impressive results,
+<table>
+  <tr>
+    <td width="50%">
+      <video src="https://github.com/user-attachments/assets/a475ff6d-866b-4999-ba24-7cd93b9f1a67" controls></video>
+    </td>
+    <td width="50%">
+      <video src="https://github.com/user-attachments/assets/7c7bdfbb-6700-4f75-baf9-b928117ba0bc" controls></video>
+    </td>
+  </tr>
+</table>
 
 # Chassie Design & Build
 
