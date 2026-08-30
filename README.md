@@ -2,6 +2,8 @@
 
 (For the reader, i unfortunately did not have the time to extensively document this entire project. I decided to include some of the highlights, the project is far more extensive than this)
 
+![Final Build](images/Final_Build.png)
+
 Work in progress project that hopes to acheive the highest performing 3D-printed quadruped constructed with the help of ground-up designed high performance 3D printed QDD-actuators.
 
 # Overview
@@ -42,6 +44,8 @@ Using inferior generation 2 actuators, still impressive results,
 # Self designed FOC controller
 
 I decided to have a hand on designing my own FOC controller able to power and effectively and accurately control my actuators. Below is the schematic i made myself in KiCad.
+
+![FOC Design](images/FOC_Schematic.png)
 
 # Chassie Design & Build
 
