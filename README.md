@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/92d0cb23-9992-41e9-826b-c3d4a40cceba
 ## Generation 2
 
 ## Generation 3
-261 components, 18N.m, 580g, 35mm thick, highest performance 3D printed actuator of its class.
+261 components, 18N.m, 580g, 35mm thick, highest performance 3D printed actuator of its class. Extremely unique combination of cycloidal and planetary gearbox systems. Planetary gears with cycloidal gear profiles custom generated with software recently developed by Eelco Hoogendoorn. Allows never seen before high performing fully 3D printed QDD gearboxes. Printed with PPA-CF Core composite filament. PPA-CF with the CF in the core allows the outside to have a nice slick very low contact friction nylon giving the best of two worlds. A nylon outer surface ideal in a gearbox while a high density carbon fibre interior leading to extremely high stregth and dimensional accuracy leading to virtually zero backlash.
 ![Gen 3 CAD](images/Gen_3_CAD.jpg)
 
 ![Gen 3](images/Gen_3.jpg)
