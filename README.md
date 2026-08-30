@@ -9,7 +9,7 @@ After working on the TTR project (Table Tennis Robot) i gained an interest in mo
 
 Designing, fabricating, testing and evaulating the actuator has been by far the largest amount of time and resources spent on this project. The reason for this comes down to the factors what constitutes a great dynamic actuator joint. For an actuator joint to be viable for dynamic robot application, it needs as good of a balance as possible in mass, size, backdriveability, tolerance, torque and controllability. Sacrifice any of these factors, you will reach an unideal result and thus an unideal robot. It was then my priorirty from the start to design an actuator incorporating as much of these aspects as possible in a balanced way. Instead of reinventing the wheel i looked at practical working examples, the best of which being the MIT mini cheetah quadruped actuators. The actuator design and idea was fairly public knowledge at this point, but the biggest takeaway for me was the concept of having a flat pancake style BLDC motor with an internal low gear ratio gearbox inside the stator. Very early on i came to a working base concept.
 
-### Early Concept
+## Early Concept
 
 
 
