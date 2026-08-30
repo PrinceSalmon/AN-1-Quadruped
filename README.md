@@ -53,3 +53,4 @@ I decided to have a hand on designing my own FOC controller able to power and ef
 
 ![Chassie Build](images/Chassie_Build.png)
 
+# FEMM Simulations
