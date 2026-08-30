@@ -49,4 +49,7 @@ I decided to have a hand on designing my own FOC controller able to power and ef
 
 # Chassie Design & Build
 
+![Chassie CAD](images/Chassie_CAD.jpg)
+
+![Chassie Build](images/Chassie_Build.png)
 
