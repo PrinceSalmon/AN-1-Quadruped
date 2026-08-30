@@ -16,6 +16,9 @@ https://github.com/user-attachments/assets/92d0cb23-9992-41e9-826b-c3d4a40cceba
 ## Generation 2
 
 ## Generation 3
+![Gen 3 CAD](Gen_3_CAD.jpg)
+
+![Gen 3](Gen_3.jpg)
 
 # Leg Design
 
